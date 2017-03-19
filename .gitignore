@@ -1,0 +1,7 @@
+*.pdf
+*.csv
+*.zip
+*.jar
+*.exe
+*~
+tabula/*
